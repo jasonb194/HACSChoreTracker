@@ -2,7 +2,7 @@
   "domain": "daily_chores",
   "name": "Daily Chores Tracker",
   "version": "1.0.0",
-  "documentation": "https://github.com/jasonb194/hacs-daily-chores",
+  "documentation": "https://github.com/jasonb194/HACSChoreTracker",
   "dependencies": [],
   "requirements": [],
   "codeowners": ["@jasonb194"],

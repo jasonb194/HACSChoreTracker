@@ -1,0 +1,16 @@
+add_chore:
+  description: "Add a new chore to the tracking list."
+  fields:
+    name:
+      description: "The name of the chore to add."
+      example: "Wash dishes"
+    frequency:
+      description: "How often the chore should be done (e.g., daily, weekly)."
+      example: "daily"
+
+complete_chore:
+  description: "Mark a chore as completed."
+  fields:
+    name:
+      description: "The name of the chore to mark as completed."
+      example: "Wash dishes"

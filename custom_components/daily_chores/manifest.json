@@ -1,0 +1,11 @@
+{
+  "domain": "daily_chores",
+  "name": "Daily Chores Tracker",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jasonb194/hacs-daily-chores",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": ["@jasonb194"],
+  "iot_class": "local_polling",
+  "homeassistant": "2023.1.0"
+}

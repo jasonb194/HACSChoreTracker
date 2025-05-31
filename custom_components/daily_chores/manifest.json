@@ -3,6 +3,7 @@
   "name": "Daily Chores Tracker",
   "version": "1.0.0",
   "documentation": "https://github.com/jasonb194/HACSChoreTracker",
+  "issue_tracker": "https://github.com/jasonb194/HACSChoreTracker/issues",
   "dependencies": [],
   "requirements": [],
   "codeowners": ["@jasonb194"],
